@@ -4,7 +4,7 @@
 **Programação web com HTML/CSS**  
 *Programa Juventude Digital - Agosto/2022*
 
-[![Certificado HTML/CSS](https://girlfromfortaleza.github.io/PortfolioArte-HTML/certtec22.PNG)](https://girlfromfortaleza.github.io/PortfolioArte-HTML/certtec22.PNG)
+[![Certificado HTML/CSS](https://girlfromfortaleza.github.io/me/assets/htmlhub/certtec22.PNG)](https://girlfromfortaleza.github.io/me/assets/htmlhub/certtec22.PNG)
 
 ## 🚀 Projetos Desenvolvidos
 - Currículo Fake (太陽 星星)
